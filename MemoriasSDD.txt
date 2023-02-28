@@ -1,2 +1,3 @@
 Estas son las caracteristicas de las memorias SDD:
 Las memorias SDD son mucho mas rapidad que los discos duros.
+Estas tiene un tamaño inferior a los discos duros.
